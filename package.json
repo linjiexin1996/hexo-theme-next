@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-next",
-  "version": "8.0.0-rc.2",
+  "version": "8.0.0-rc.3",
   "description": "Elegant and powerful theme for Hexo.",
   "main": "gulpfile.js",
   "scripts": {
@@ -24,11 +24,11 @@
   },
   "homepage": "https://theme-next.js.org",
   "devDependencies": {
-    "eslint": "7.0.0",
+    "eslint": "7.1.0",
     "eslint-config-theme-next": "1.1.4",
     "gulp": "4.0.2",
     "gulp-shell": "0.8.0",
-    "js-yaml": "3.13.1",
+    "js-yaml": "3.14.0",
     "stylint": "2.0.0"
   },
   "engines": {
