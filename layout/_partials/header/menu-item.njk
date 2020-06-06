@@ -25,6 +25,9 @@
           {%- set menuBadge = '<span class="badge">' + count + '</span>' %}
         {%- endif %}
       {%- endfor %}
+      {%- if name == 'messages' %}
+        {%- set menuBadge = '<span class="badge valine-comment-count" data-xid="/messages/" itemprop="commentCount">-</span>' %}
+      {%- endif %}
     {%- endif %}
 
     {{ next_url(itemURL, menuIcon + menuText + menuBadge, {rel: 'section'}) }}
