@@ -604,9 +604,9 @@ changyan:
 # Valine
 # For more information: https://valine.js.org, https://github.com/xCss/Valine
 valine:
-  enable: false
-  appId: # Your leancloud application appid
-  appKey: # Your leancloud application appkey
+  enable: true
+  appId: 1EcHaMOtrgWPDeNGqBGF77wo-gzGzoHsz # Your leancloud application appid
+  appKey: BmmftwKTFzvP24wgPwr4tOJl # Your leancloud application appkey
   placeholder: Just go go # Comment box placeholder
   avatar: mm # Gravatar style
   meta: [nick, mail, link] # Custom comment header
