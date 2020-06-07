@@ -258,7 +258,7 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
   animation: false
-  comment: 请站长吃颗糖 🍬
+  comment: 谢谢支持，ღ( ´･ᴗ･` )比心
 
 reward:
   wechatpay: /images/wechatpay.jpg
